@@ -1,4 +1,4 @@
-# To-Do-List
+# "To-Do-List"
 This repository contains a simple "To Do" list application built using JavaScript, HTML, and CSS. The application allows users to add tasks, mark them as completed.
 <br>
 <img width="960" alt="Screenshot 2024-02-21 204818" src="https://github.com/Aditi-Pande/To-Do-List/assets/144425325/723c5fc4-6201-434c-9098-e6c5ba93150c">
