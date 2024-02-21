@@ -9,11 +9,9 @@ This repository contains a simple "To Do" list application built using JavaScrip
 <br>
 Alert on empty input!
 <br>
-<br>
 <img width="960" alt="Screenshot 2024-02-21 204935" src="https://github.com/Aditi-Pande/To-Do-List/assets/144425325/98fcc429-7020-4113-bd21-2a85c23bdcbb">
 <br>
 <br>
 Can mark task as done and also delete unwanted tasks!
-<br>
 <br>
 <img width="960" alt="Screenshot 2024-02-21 205214" src="https://github.com/Aditi-Pande/To-Do-List/assets/144425325/908d19e8-540a-4191-957e-8366d9e00b8b">
