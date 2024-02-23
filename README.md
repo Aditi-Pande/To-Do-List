@@ -15,3 +15,5 @@ Can mark task as done and also delete unwanted tasks!
 <br>
 <br>
 <img width="960" alt="Screenshot 2024-02-21 205214" src="https://github.com/Aditi-Pande/To-Do-List/assets/144425325/908d19e8-540a-4191-957e-8366d9e00b8b">
+<br>
+Also delete tasks.
